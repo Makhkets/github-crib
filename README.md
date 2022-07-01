@@ -22,3 +22,15 @@ git push -u origin main
 git branch brnch
 git checkout brnch
 ```
+#
+### Файл .gitignore
+```
+Игнорирует файлы при добавлении
+
+ignore /
+        .idea
+        .venv
+        .env
+        info.txt
+        ......
+```
