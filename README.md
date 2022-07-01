@@ -16,4 +16,9 @@ git commit -m "Комментарий"
 git branch -M Название ветки
 git push -u origin main
 ```
-
+#
+### Создать ветку и переключиться на неё
+```
+git branch brnch
+git checkout brnch
+```
